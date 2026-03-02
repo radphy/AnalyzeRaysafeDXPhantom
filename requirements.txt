@@ -1,0 +1,8 @@
+streamlit
+streamlit-drawable-canvas
+pydicom
+numpy
+scipy
+scikit-image
+scikit-learn
+matplotlib
